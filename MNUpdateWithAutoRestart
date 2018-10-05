@@ -13,7 +13,7 @@ rm wagerr-2.0.1-x86_64-linux-gnu.tar.gz
 
 #start wagerrd
 cd ~/wagerr-2.0.1/bin
-./wagerrd
+./wagerrd &
 echo -e "Your Wagerr Masternode has been successfully upgraded to version 2.0.1 Monte Carlo"
 
 #start of Auto-Restart script creation
