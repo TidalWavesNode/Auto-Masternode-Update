@@ -1,7 +1,7 @@
 # AutoMNupdate
 Automated Wagerr Masternode update scripts
 
-# MasterNode update to 2.0.1 Usage - this does nothing but update to the latest version
+# MasterNode update to 2.0.1 Usage - this one only updates your masternode to the latest version
 
 On vps run the below cmds
 
